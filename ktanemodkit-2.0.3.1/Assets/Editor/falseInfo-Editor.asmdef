@@ -1,0 +1,10 @@
+{
+  "name": "falseInfo-Editor",
+  "references": [
+    "falseInfo"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
